@@ -1,0 +1,38 @@
+body{
+    margin:0px;
+    padding:100px;
+}
+
+
+
+.flex-container{
+    display:flex;
+   align-items:center;
+   background-color:aqua;
+   flex-direction:row;
+   width:75%;
+   padding:15px;
+   height:200px; 
+   padding-left:200px;
+}
+
+.img {
+    border:3px white solid;
+    width:100%;
+    border-radius: 100%; 
+    width:150px; 
+    height:150px;
+    
+
+    
+}
+
+.image{
+    border:0px;
+    padding:0px;
+    margin:-19px;
+}
+.text{
+    padding-left: 75px;
+    padding-top:65px;
+}
